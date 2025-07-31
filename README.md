@@ -1,33 +1,14 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8" />
-  <title>📱 Charity App</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      margin: 40px;
-      line-height: 1.6;
-      color: #333;
-    }
-
-  </style>
-</head>
-<body>
-
-<h1># 📱 Charity App</h1>
+**📱 Charity App**
 
 ---
 
-<h2>## 🎯 Project Overview</h2>
+**🎯 Project Overview**
 
-<p>
-The <strong>Charity App</strong> is a Flutter-based mobile application designed to facilitate charitable giving and volunteering. Users can donate to campaigns, find volunteer opportunities, and track their impact in a seamless and intuitive way.
-</p>
+The **Charity App** is a Flutter-based mobile application designed to facilitate charitable giving and volunteering. Users can donate to campaigns, find volunteer opportunities, and track their impact in a seamless and intuitive way.
 
 ---
 
-<h2>## ✨ Features</h2>
+**✨ Features**
 
 - **Donation Management** 💰  
   - Browse and donate to verified campaigns.  
@@ -50,7 +31,7 @@ The <strong>Charity App</strong> is a Flutter-based mobile application designed 
 
 ---
 
-<h2>## 🛠️ Tech Stack</h2>
+**🛠️ Tech Stack**
 
 - **Flutter** – Cross-platform UI development  
 - **Firebase Authentication** – Secure user login  
@@ -62,23 +43,31 @@ The <strong>Charity App</strong> is a Flutter-based mobile application designed 
 
 ---
 
-<h2>## 📋 Installation & Setup</h2>
+**📋 Installation & Setup**
 
 1. Clone the repository  
-   <pre><code>git clone https://github.com/fareedtariq16/charity-app.git</code></pre>
+   ```bash
+   git clone https://github.com/fareedtariq16/charity-app.git
+   ```
 
 2. Navigate to the project folder  
-   <pre><code>cd charity-app</code></pre>
+   ```bash
+   cd charity-app
+   ```
 
 3. Install dependencies  
-   <pre><code>flutter pub get</code></pre>
+   ```bash
+   flutter pub get
+   ```
 
 4. Run the app  
-   <pre><code>flutter run</code></pre>
+   ```bash
+   flutter run
+   ```
 
 ---
 
-<h2>## 🧩 How to Use</h2>
+**🧩 How to Use**
 
 1. Sign up and create a profile.  
 2. Browse campaigns or events.  
@@ -87,52 +76,36 @@ The <strong>Charity App</strong> is a Flutter-based mobile application designed 
 
 ---
 
-<h2>## 📸 Screenshots</h2>
+**📸 Screenshots**
 
-<table>
-  <tr>
-    <td><img src="screenshots/a.jpg" alt="Screenshot A" /></td>
-    <td><img src="screenshots/b.jpg" alt="Screenshot B" /></td>
-    <td><img src="screenshots/c.jpg" alt="Screenshot C" /></td>
-  </tr>
-  <tr>
-    <td><img src="screenshots/d.jpg" alt="Screenshot D" /></td>
-    <td><img src="screenshots/e.jpg" alt="Screenshot E" /></td>
-    <td><img src="screenshots/f.jpg" alt="Screenshot F" /></td>
-  </tr>
-</table>
+| ![Screenshot A](screenshots/a.jpg) | ![Screenshot B](screenshots/b.jpg) | ![Screenshot C](screenshots/c.jpg) |
+|-----------------------------------|-----------------------------------|-----------------------------------|
+| ![Screenshot D](screenshots/d.jpg) | ![Screenshot E](screenshots/e.jpg) | ![Screenshot F](screenshots/f.jpg) |
 
 ---
 
-<h2>## 🎬 Video</h2>
+**🎬 Video Demo**
 
-<p>
-<em>(Insert your video demo link here if available)</em>
-</p>
+[▶️ Click here to watch the demo video](screenshots/ab.mp4)
 
----
-
-<h2>## 📚 Resources</h2>
-
-- Flutter Official Documentation  
-- Firebase Firestore & Authentication  
-- Flutter State Management (Provider)
+[![Watch the video](screenshots/a.jpg)](screenshots/ab.mp4)
 
 ---
 
-<h2>## 🤝 Contributing</h2>
+**📚 Resources**
 
-<p>
+- [Flutter Official Documentation](https://flutter.dev/docs)  
+- [Firebase Firestore & Authentication](https://firebase.google.com/docs)  
+- [Flutter State Management (Provider)](https://pub.dev/packages/provider)
+
+---
+
+**🤝 Contributing**
+
 Feel free to fork the repository and contribute. Create a pull request for improvements or feature ideas. Let’s build a better world together.
-</p>
 
 ---
 
-<h2>## 📝 License</h2>
+**📝 License**
 
-<p>
 This project is licensed under the MIT License.
-</p>
-
-</body>
-</html>
