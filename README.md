@@ -86,9 +86,12 @@ The **Charity App** is a Flutter-based mobile application designed to facilitate
 
 **🎬 Video Demo**
 
-[▶️ Click here to watch the demo video](screenshots/ab.mp4)
+<video width="100%" height="auto" controls style="max-width: 800px; display: block; margin: 20px auto;">
+  <source src="screenshots/ab.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
-[![Watch the video](screenshots/a.jpg)](screenshots/ab.mp4)
+
 
 ---
 
