@@ -4,7 +4,7 @@
 
 **🎯 Project Overview**
 
-The **Charity App** is a Flutter-based mobile application designed to facilitate charitable giving and volunteering. Users can donate to campaigns, find volunteer opportunities, and track their impact in a seamless and intuitive way.
+The **Charity App** is a 1Flutter-based mobile application designed to facilitate charitable giving and volunteering. Users can donate to campaigns, find volunteer opportunities, and track their impact in a seamless and intuitive way.
 
 ---
 
